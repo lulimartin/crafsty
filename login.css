@@ -1,0 +1,45 @@
+* { box-sizing: border-box;}
+header{
+  width: 100%;
+  height: 50px;
+  color: white;
+  background-color: red;
+  overflow: hidden;
+
+}
+body {
+  width: 1500px;
+    background-image: url("img/fondo.png");
+}
+.boton {
+  text-decoration: none;
+    padding: 10px;
+    font-family: arial;
+    text-transform: uppercase;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-weight: 70;
+    font-size: 15px;
+    color: white;
+    background-color: blue;
+
+}
+main {
+float: center;
+  overflow: hidden;
+
+}
+
+header {
+  overflow:hidden;
+
+
+}
+
+li{
+  float:left;
+  width:20%;
+margin-left:2.5%;
+margin-right:2.5%;
+box-sizing:border-box
+}

@@ -1,0 +1,85 @@
+* { box-sizing: border-box;}
+.productos article {
+  float: left;
+  width: 380px;
+  margin-left: 10px;
+  height: 350px;
+  background: orange;
+  margin-bottom: 20px;
+}
+.productos {
+  width: 820px;
+}
+.tutoriales article {
+  width: 30%;
+    float: left;
+    height: 30px;
+  background: blue;
+  margin-bottom: 20px;
+
+}
+.tutoriales {
+  position: relative;
+  right: 0px;
+}
+.publicidad article {
+  float: right;
+  width: 100px;
+  margin-left: 10px;
+  height: 50px;
+  background: blue;
+  margin-bottom: 20px;
+}
+div .main-nav {
+  float: left;
+}
+div .user-nave {
+  float: right;
+}
+body {
+  width: 1500px;
+background-image: url("../img/emilia-home.jpg");}
+
+.tutorialestitulo {
+  font-weight: bold;
+  border: 3px;
+  border: solid;
+  background-color: grey;
+  float: right;
+  height: 30px;
+  width: 50px;
+}
+.publicidadestitulo {
+  font-weight: bold;
+  border: 3px;
+  border: solid;
+  background-color: grey;
+  float: right;
+  height: 30px;
+  width: 50px;
+}
+h2{
+  font-weight: bold;
+}
+header{
+  width: 100%;
+  height: 50px;
+  color: white;
+  background-color: red;
+  overflow: hidden;
+
+}
+
+.boton_personalizado {
+  text-decoration: none;
+    padding: 10px;
+    font-family: arial;
+    text-transform: uppercase;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-weight: 50;
+    font-size: 15px;
+    color: white;
+    background-color: #9b0e0e;
+
+}
