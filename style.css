@@ -22,19 +22,20 @@
   position: relative;
   right: 0px;
 }
-.publicidad article {
+aside {
   float: right;
   width: 100px;
   margin-left: 10px;
-  height: 50px;
+  height: 100px;
   background: blue;
   margin-bottom: 20px;
 }
 div .main-nav {
   float: left;
 }
-div .user-nave {
+div.user-nave {
   float: right;
+  
 }
 body {
   width: 1500px;
