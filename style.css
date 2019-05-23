@@ -8,7 +8,7 @@
   margin-bottom: 20px;
 }
 .productos {
-  width: 820px;
+  width: 800px;
 }
 .tutoriales article {
   width: 30%;
@@ -21,10 +21,8 @@
 .tutoriales {
   position: relative;
   right: 0px;
-}
-aside {
   float: right;
-  width: 100px;
+  width: 320px;
   margin-left: 10px;
   height: 100px;
   background: blue;
@@ -38,7 +36,7 @@ div.user-nave {
   
 }
 body {
-  width: 1500px;
+  width: 1140px;
 background-image: url("fondo.jpg");}
 
 .tutorialestitulo {
