@@ -19,7 +19,7 @@
 
 }
 .tutoriales {
-  position: relative;
+  display: inline;
   right: 0px;
   float: right;
   width: 320px;
@@ -62,7 +62,8 @@ header .registro{
 }
 body {
   width: 1140px;
-background-image: url("fondo.jpg");}
+background-image: url ("fondo.jpg");
+}
 
 .tutorialestitulo {
   font-weight: bold;
