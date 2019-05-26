@@ -12,10 +12,16 @@
 }
 .tutoriales article {
   width: 30%;
-    float: right;
     height: 30px;
   background: blue;
   margin-bottom: 20px;
+
+}
+.tutoriales {
+  right: 0px;
+  float: right;
+  width: 320px;
+  margin-left: 10px;
 
 }
 
