@@ -70,15 +70,29 @@ body {
   background-image: url("fondo.png");
 }
 
-.publicidadestitulo {
-  font-weight: bold;
-  border: 3px;
-  border: solid;
-  background-color: grey;
-  float: right;
-  height: 30px;
-  width: 50px;
+.titlea {
+  width: 320px;
+  background-color: white;
+  margin-bottom: 5px;
+  margin-top: -10px;
+  font-family: 'Raleway', sans-serif;
 }
+
+.publicidad {
+  width: 320px;
+  background-color: white;
+}
+
+.publicidades {
+  margin-bottom: 10px;
+  background-color: white;
+  float: right;
+}
+
+.publicidades p {
+  float: right;
+}
+
 h2{
   font-weight: bold;
 }
