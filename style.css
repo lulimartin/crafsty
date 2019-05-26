@@ -18,16 +18,7 @@
   margin-bottom: 20px;
 
 }
-.tutoriales {
-  display: inline;
-  right: 0px;
-  float: right;
-  width: 320px;
-  margin-left: 10px;
-  height: 100px;
-  background: blue;
-  margin-bottom: 20px;
-}
+
 header{
 	background-color: #f8500f;
 	overflow: hidden;
