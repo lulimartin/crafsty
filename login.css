@@ -1,11 +1,35 @@
 * { box-sizing: border-box;}
 header{
-  width: 100%;
-  height: 50px;
-  color: white;
-  background-color: red;
-  overflow: hidden;
+	background-color: #f8500f;
+	overflow: hidden;
+	height: 50px;
+}
 
+header ul li{
+	display: inline;
+	margin-right: 20px;
+}
+
+header ul li a{
+	color: white;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 14px;
+}
+
+header .logo{
+	float: left;
+	height: 50px;
+	padding: 5px;
+	margin-left: 10px;
+}
+
+header .menu{
+	float: left;
+}
+
+header .registro{
+	float: right;
 }
 body {
   width: 1140px;
@@ -30,16 +54,3 @@ float: center;
   width:350px;
 }
 
-header {
-  overflow:hidden;
-
-
-}
-
-li{
-  float:left;
-  width:20%;
-margin-left:2.5%;
-margin-right:2.5%;
-box-sizing:border-box
-}
