@@ -69,15 +69,6 @@ body {
   background-image: url("fondo.png");
 }
 
-.tutorialestitulo {
-  font-weight: bold;
-  border: 3px;
-  border: solid;
-  background-color: grey;
-  float: right;
-  height: 30px;
-  width: 50px;
-}
 .publicidadestitulo {
   font-weight: bold;
   border: 3px;
