@@ -10,19 +10,26 @@
 .productos {
   width: 800px;
 }
-.tutoriales article {
-  width: 30%;
-    height: 30px;
-  background: blue;
-  margin-bottom: 20px;
-
-}
-.tutoriales {
-  right: 0px;
-  float: right;
+.titlea {
   width: 320px;
-  margin-left: 10px;
+  background-color: white;
+  margin-bottom: 5px;
+  margin-top: -10px;
+  font-family: 'Raleway', sans-serif;
+}
 
+.tutorials {
+  width: 320px;
+  background-color: white;
+}
+
+.tutoriales {
+  margin-bottom: 10px;
+  background-color: white;
+}
+
+.tutoriales p {
+  float: right;
 }
 
 header{
